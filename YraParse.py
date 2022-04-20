@@ -7,8 +7,7 @@ from bs4 import BeautifulSoup as bs
 
 api_url = "https://wax.api.atomicassets.io/atomicassets/v1/collections"
 
-bot = telebot.TeleBot("5194899461:AAFo0ga0QEcQVWo8li3WagTSfHcL-86x3E0")  # тестовый бот
-# bot = telebot.TeleBot("5275934453:AAF_dI-YaP4nNfJyLTm3TxH7RjPp1k6BH9I")
+bot = telebot.TeleBot("Token")
 
 time_create_last = 0
 users = {}
