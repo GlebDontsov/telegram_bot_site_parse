@@ -1,2 +1,2 @@
 # telegram_bot_site_parse
-The bot that parses the site https://wax.atomichub.io/explorer#collections and notifies about the appearance of new collections.
+The bot parses the site with NFT and notifies the user about the appearance of a new collection.
